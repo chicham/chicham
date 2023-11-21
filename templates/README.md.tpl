@@ -6,7 +6,7 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://chicham.github.io/post/index.xml" 5}}
+{{range rss "https://chicham.github.io/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
@@ -17,7 +17,7 @@ Say Hello, I don't bite!
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/chicham
-- Blog: https://chicham.github.io/post
+- Blog: https://chicham.github.io/
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
