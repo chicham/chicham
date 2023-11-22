@@ -7,8 +7,8 @@
 
 #### 📜 My recent blog posts
 
-- [Post With Code](https://chicham.github.io/posts/post-with-code/index.html) (2 days ago)
-- [Welcome To My Blog](https://chicham.github.io/posts/welcome/index.html) (5 days ago)
+- [Post With Code](https://chicham.github.io/posts/post-with-code/index.html) (3 days ago)
+- [Welcome To My Blog](https://chicham.github.io/posts/welcome/index.html) (6 days ago)
 
 #### 💬 Feedback
 
