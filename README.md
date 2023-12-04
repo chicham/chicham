@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [chicham/chicham.github.io](https://github.com/chicham/chicham.github.io) -  (1 day ago)
+- [chicham/chicham.github.io](https://github.com/chicham/chicham.github.io) -  (2 days ago)
 - [chicham/dotfiles](https://github.com/chicham/dotfiles) -  (6 months ago)
 
 #### 📜 My recent blog posts
 
-- [Post With Code](https://chicham.github.io/posts/post-with-code/index.html) (1 week ago)
+- [Post With Code](https://chicham.github.io/posts/post-with-code/index.html) (2 weeks ago)
 
 #### 💬 Feedback
 
