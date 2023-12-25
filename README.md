@@ -9,10 +9,6 @@
 
 - [Post With Code](https://chicham.github.io/posts/post-with-code/index.html) (1 month ago)
 
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/chicham
