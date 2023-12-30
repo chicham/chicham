@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [chicham/dotfiles](https://github.com/chicham/dotfiles) -  (6 days ago)
-- [chicham/chicham.github.io](https://github.com/chicham/chicham.github.io) -  (3 weeks ago)
+- [chicham/dotfiles](https://github.com/chicham/dotfiles) -  (1 week ago)
+- [chicham/chicham.github.io](https://github.com/chicham/chicham.github.io) -  (4 weeks ago)
 
 #### 📜 My recent blog posts
 
