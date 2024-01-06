@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [chicham/dotfiles](https://github.com/chicham/dotfiles) -  (1 week ago)
+- [chicham/dotfiles](https://github.com/chicham/dotfiles) -  (2 weeks ago)
 - [chicham/chicham.github.io](https://github.com/chicham/chicham.github.io) -  (1 month ago)
 
 #### 📜 My recent blog posts
