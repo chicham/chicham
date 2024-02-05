@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [chicham/dotfiles](https://github.com/chicham/dotfiles) -  (1 day ago)
-- [google/etils](https://github.com/google/etils) - Collection of eclectic utils for python. (3 weeks ago)
+- [chicham/dotfiles](https://github.com/chicham/dotfiles) -  (2 days ago)
+- [google/etils](https://github.com/google/etils) - Collection of eclectic utils for python. (4 weeks ago)
 - [chicham/chicham.github.io](https://github.com/chicham/chicham.github.io) -  (2 months ago)
 
 #### 🔨 My recent Pull Requests
