@@ -21,7 +21,7 @@
 
 #### 📜 My recent blog posts
 
-- [Post With Code](https://chicham.github.io/posts/post-with-code/index.html) (2 months ago)
+- [Post With Code](https://chicham.github.io/posts/post-with-code/index.html) (3 months ago)
 
 #### 📫 How to reach me
 
