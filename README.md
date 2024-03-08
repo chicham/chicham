@@ -4,7 +4,7 @@
 
 - [chicham/dotfiles](https://github.com/chicham/dotfiles) -  (1 week ago)
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans (2 weeks ago)
-- [google/etils](https://github.com/google/etils) - Collection of eclectic utils for python. (1 month ago)
+- [google/etils](https://github.com/google/etils) - Collection of eclectic utils for python. (2 months ago)
 - [chicham/chicham.github.io](https://github.com/chicham/chicham.github.io) -  (3 months ago)
 
 #### 🔨 My recent Pull Requests
