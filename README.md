@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [chicham/dotfiles](https://github.com/chicham/dotfiles) -  (2 days ago)
+- [chicham/dotfiles](https://github.com/chicham/dotfiles) -  (3 days ago)
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans (8 months ago)
 - [google/etils](https://github.com/google/etils) - Collection of eclectic utils for python. (10 months ago)
 - [chicham/chicham.github.io](https://github.com/chicham/chicham.github.io) -  (11 months ago)
@@ -22,7 +22,7 @@
 
 #### 📜 My recent blog posts
 
-- [Post With Code](https://chicham.github.io/posts/post-with-code/) (11 months ago)
+- [Post With Code](https://chicham.github.io/posts/post-with-code/) (1 year ago)
 
 #### 📫 How to reach me
 
