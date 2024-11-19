@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [chicham/dotfiles](https://github.com/chicham/dotfiles) -  (1 week ago)
+- [chicham/dotfiles](https://github.com/chicham/dotfiles) -  (1 day ago)
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans (9 months ago)
 - [google/etils](https://github.com/google/etils) - Collection of eclectic utils for python. (10 months ago)
 - [chicham/chicham.github.io](https://github.com/chicham/chicham.github.io) -  (1 year ago)
