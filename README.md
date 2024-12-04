@@ -8,8 +8,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo in vllm extra requirements](https://github.com/dottxt-ai/outlines/pull/1315) on [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) (1 day ago)
 - [Update actions to satisfy minimum nodejs version](https://github.com/artefactory/choice-learn/pull/187) on [artefactory/choice-learn](https://github.com/artefactory/choice-learn) (2 weeks ago)
-- [Make hooks faster](https://github.com/artefactory/choice-learn/pull/177) on [artefactory/choice-learn](https://github.com/artefactory/choice-learn) (4 weeks ago)
+- [Make hooks faster](https://github.com/artefactory/choice-learn/pull/177) on [artefactory/choice-learn](https://github.com/artefactory/choice-learn) (1 month ago)
 - [Add colab links to example notebooks](https://github.com/artefactory/choice-learn/pull/174) on [artefactory/choice-learn](https://github.com/artefactory/choice-learn) (1 month ago)
 - [Fix typo in keras.distribution.initialize](https://github.com/keras-team/keras/pull/19201) on [keras-team/keras](https://github.com/keras-team/keras) (9 months ago)
 - [Fix typo in `keras.distribution.initialize`](https://github.com/keras-team/keras/pull/19200) on [keras-team/keras](https://github.com/keras-team/keras) (9 months ago)
@@ -17,7 +18,6 @@
 - [Feature/push](https://github.com/chicham/dotfiles/pull/7) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (2 years ago)
 - [Feature/ci](https://github.com/chicham/query_analysis/pull/5) on [chicham/query_analysis](https://github.com/chicham/query_analysis) (2 years ago)
 - [Modify the way the results a shown](https://github.com/chicham/query_analysis/pull/4) on [chicham/query_analysis](https://github.com/chicham/query_analysis) (2 years ago)
-- [Add a print for entity extraction](https://github.com/chicham/query_analysis/pull/3) on [chicham/query_analysis](https://github.com/chicham/query_analysis) (2 years ago)
 
 #### 📜 My recent blog posts
 
