@@ -9,7 +9,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Fix typo in vllm extra requirements](https://github.com/dottxt-ai/outlines/pull/1315) on [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) (1 month ago)
-- [Update actions to satisfy minimum nodejs version](https://github.com/artefactory/choice-learn/pull/187) on [artefactory/choice-learn](https://github.com/artefactory/choice-learn) (1 month ago)
+- [Update actions to satisfy minimum nodejs version](https://github.com/artefactory/choice-learn/pull/187) on [artefactory/choice-learn](https://github.com/artefactory/choice-learn) (2 months ago)
 - [Make hooks faster](https://github.com/artefactory/choice-learn/pull/177) on [artefactory/choice-learn](https://github.com/artefactory/choice-learn) (2 months ago)
 - [Add colab links to example notebooks](https://github.com/artefactory/choice-learn/pull/174) on [artefactory/choice-learn](https://github.com/artefactory/choice-learn) (2 months ago)
 - [Fix typo in keras.distribution.initialize](https://github.com/keras-team/keras/pull/19201) on [keras-team/keras](https://github.com/keras-team/keras) (11 months ago)
