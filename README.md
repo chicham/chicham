@@ -3,12 +3,12 @@
 #### 👷 Check out what I'm currently working on
 
 - [chicham/dotfiles](https://github.com/chicham/dotfiles) -  (1 month ago)
-- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation (1 month ago)
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation (2 months ago)
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans (11 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Fix typo in vllm extra requirements](https://github.com/dottxt-ai/outlines/pull/1315) on [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) (1 month ago)
+- [Fix typo in vllm extra requirements](https://github.com/dottxt-ai/outlines/pull/1315) on [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) (2 months ago)
 - [Update actions to satisfy minimum nodejs version](https://github.com/artefactory/choice-learn/pull/187) on [artefactory/choice-learn](https://github.com/artefactory/choice-learn) (2 months ago)
 - [Make hooks faster](https://github.com/artefactory/choice-learn/pull/177) on [artefactory/choice-learn](https://github.com/artefactory/choice-learn) (2 months ago)
 - [Add colab links to example notebooks](https://github.com/artefactory/choice-learn/pull/174) on [artefactory/choice-learn](https://github.com/artefactory/choice-learn) (3 months ago)
