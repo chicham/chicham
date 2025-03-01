@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [chicham/dotfiles](https://github.com/chicham/dotfiles) -  (3 days ago)
+- [chicham/dotfiles](https://github.com/chicham/dotfiles) -  (4 days ago)
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation (2 months ago)
 
 #### 🔨 My recent Pull Requests
