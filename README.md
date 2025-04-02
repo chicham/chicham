@@ -3,12 +3,12 @@
 #### 👷 Check out what I'm currently working on
 
 - [chicham/dotfiles](https://github.com/chicham/dotfiles) -  (1 week ago)
-- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation (3 months ago)
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
 - [Add unit tests and CLAUDE.md](https://github.com/artefactory/choice-learn/pull/236) on [artefactory/choice-learn](https://github.com/artefactory/choice-learn) (2 weeks ago)
-- [Fix typo in vllm extra requirements](https://github.com/dottxt-ai/outlines/pull/1315) on [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) (3 months ago)
+- [Fix typo in vllm extra requirements](https://github.com/dottxt-ai/outlines/pull/1315) on [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) (4 months ago)
 - [Update actions to satisfy minimum nodejs version](https://github.com/artefactory/choice-learn/pull/187) on [artefactory/choice-learn](https://github.com/artefactory/choice-learn) (4 months ago)
 - [Make hooks faster](https://github.com/artefactory/choice-learn/pull/177) on [artefactory/choice-learn](https://github.com/artefactory/choice-learn) (4 months ago)
 - [Add colab links to example notebooks](https://github.com/artefactory/choice-learn/pull/174) on [artefactory/choice-learn](https://github.com/artefactory/choice-learn) (5 months ago)
