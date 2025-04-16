@@ -6,16 +6,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Get upstream](https://github.com/chicham/dotfiles/pull/1) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (1 day ago)
-- [feat: improve github integration](https://github.com/artefactory/artefiles/pull/8) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [chore: remove catppuccin fish plugin](https://github.com/artefactory/artefiles/pull/7) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [fix: improve Python tools and conda removal scripts](https://github.com/artefactory/artefiles/pull/6) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [fix: improve error handling for Python tools installation](https://github.com/artefactory/artefiles/pull/5) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [fix: add --force flag to nbdime installation](https://github.com/artefactory/artefiles/pull/4) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [fix: ensure POSIX shell compatibility in conda removal script](https://github.com/artefactory/artefiles/pull/3) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [feat: add conda removal and blocking script](https://github.com/artefactory/artefiles/pull/2) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [Refactor Neovim installation to build from source](https://github.com/artefactory/artefiles/pull/1) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [Add unit tests and CLAUDE.md](https://github.com/artefactory/choice-learn/pull/236) on [artefactory/choice-learn](https://github.com/artefactory/choice-learn) (4 weeks ago)
+- [docs: reorganize and enhance CHEATSHEET.md](https://github.com/artefactory/artefiles/pull/10) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [fix: improve neovim installation script](https://github.com/artefactory/artefiles/pull/9) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [Get upstream](https://github.com/chicham/dotfiles/pull/1) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (2 days ago)
+- [feat: improve github integration](https://github.com/artefactory/artefiles/pull/8) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
+- [chore: remove catppuccin fish plugin](https://github.com/artefactory/artefiles/pull/7) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
+- [fix: improve Python tools and conda removal scripts](https://github.com/artefactory/artefiles/pull/6) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
+- [fix: improve error handling for Python tools installation](https://github.com/artefactory/artefiles/pull/5) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
+- [fix: add --force flag to nbdime installation](https://github.com/artefactory/artefiles/pull/4) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
+- [fix: ensure POSIX shell compatibility in conda removal script](https://github.com/artefactory/artefiles/pull/3) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
+- [feat: add conda removal and blocking script](https://github.com/artefactory/artefiles/pull/2) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
 
 #### 📜 My recent blog posts
 
