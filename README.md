@@ -6,16 +6,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: reorganize and enhance CHEATSHEET.md](https://github.com/artefactory/artefiles/pull/10) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
-- [fix: improve neovim installation script](https://github.com/artefactory/artefiles/pull/9) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
-- [Get upstream](https://github.com/chicham/dotfiles/pull/1) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (3 days ago)
-- [feat: improve github integration](https://github.com/artefactory/artefiles/pull/8) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 days ago)
-- [chore: remove catppuccin fish plugin](https://github.com/artefactory/artefiles/pull/7) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 days ago)
-- [fix: improve Python tools and conda removal scripts](https://github.com/artefactory/artefiles/pull/6) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 days ago)
-- [fix: improve error handling for Python tools installation](https://github.com/artefactory/artefiles/pull/5) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 days ago)
-- [fix: add --force flag to nbdime installation](https://github.com/artefactory/artefiles/pull/4) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 days ago)
-- [fix: ensure POSIX shell compatibility in conda removal script](https://github.com/artefactory/artefiles/pull/3) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 days ago)
-- [feat: add conda removal and blocking script](https://github.com/artefactory/artefiles/pull/2) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 days ago)
+- [Configure inline diff display for git and chezmoi](https://github.com/artefactory/artefiles/pull/15) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [Fix font installation and template delimiters](https://github.com/artefactory/artefiles/pull/14) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [Improve macOS support and path handling](https://github.com/artefactory/artefiles/pull/13) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [Fix: Remove Catppuccin Mocha theme from fish config](https://github.com/artefactory/artefiles/pull/12) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [Fix wezterm terminal compatibility issue](https://github.com/artefactory/artefiles/pull/11) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [docs: reorganize and enhance CHEATSHEET.md](https://github.com/artefactory/artefiles/pull/10) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 days ago)
+- [fix: improve neovim installation script](https://github.com/artefactory/artefiles/pull/9) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 days ago)
+- [Get upstream](https://github.com/chicham/dotfiles/pull/1) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (4 days ago)
+- [feat: improve github integration](https://github.com/artefactory/artefiles/pull/8) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (4 days ago)
+- [chore: remove catppuccin fish plugin](https://github.com/artefactory/artefiles/pull/7) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (4 days ago)
 
 #### 📜 My recent blog posts
 
