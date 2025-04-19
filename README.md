@@ -6,16 +6,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Configure inline diff display for git and chezmoi](https://github.com/artefactory/artefiles/pull/15) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [Fix font installation and template delimiters](https://github.com/artefactory/artefiles/pull/14) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [Improve macOS support and path handling](https://github.com/artefactory/artefiles/pull/13) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [Fix: Remove Catppuccin Mocha theme from fish config](https://github.com/artefactory/artefiles/pull/12) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [Fix wezterm terminal compatibility issue](https://github.com/artefactory/artefiles/pull/11) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [docs: reorganize and enhance CHEATSHEET.md](https://github.com/artefactory/artefiles/pull/10) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 days ago)
-- [fix: improve neovim installation script](https://github.com/artefactory/artefiles/pull/9) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 days ago)
-- [Get upstream](https://github.com/chicham/dotfiles/pull/1) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (4 days ago)
-- [feat: improve github integration](https://github.com/artefactory/artefiles/pull/8) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (4 days ago)
-- [chore: remove catppuccin fish plugin](https://github.com/artefactory/artefiles/pull/7) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (4 days ago)
+- [Configure name and email dynamically using GitHub CLI and update diff and merge tools](https://github.com/artefactory/artefiles/pull/21) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [chore: remove unused test-variables script](https://github.com/artefactory/artefiles/pull/20) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [refactor: change Git LFS to opt-in approach with template gitattributes](https://github.com/artefactory/artefiles/pull/19) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [fix: ensure Treesitter parser for orgmode is properly configured](https://github.com/chicham/dotfiles/pull/2) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (1 day ago)
+- [Fix pre-commit not found error in Python tools installation script](https://github.com/artefactory/artefiles/pull/18) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [Add Fish shell installation instructions](https://github.com/artefactory/artefiles/pull/17) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [Fix: Update Neovim AppImage download URL](https://github.com/artefactory/artefiles/pull/16) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [Configure inline diff display for git and chezmoi](https://github.com/artefactory/artefiles/pull/15) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
+- [Fix font installation and template delimiters](https://github.com/artefactory/artefiles/pull/14) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
+- [Improve macOS support and path handling](https://github.com/artefactory/artefiles/pull/13) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
 
 #### 📜 My recent blog posts
 
