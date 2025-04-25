@@ -6,16 +6,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix Neovim configuration and Git conflict style compatibility](https://github.com/artefactory/artefiles/pull/24) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
-- [Fix: Make gitconfig email template more robust with hasKey check](https://github.com/chicham/dotfiles/pull/7) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (3 days ago)
-- [Update dotfiles configuration: Convert chezmoi config to template and remove unused files](https://github.com/chicham/dotfiles/pull/6) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (3 days ago)
-- [Improve diff and merge tools](https://github.com/chicham/dotfiles/pull/5) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (4 days ago)
-- [Rebase](https://github.com/chicham/dotfiles/pull/4) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (5 days ago)
-- [Optimize Fish Shell Configuration](https://github.com/artefactory/artefiles/pull/23) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (5 days ago)
-- [Fix pre-commit errors in shell scripts and documentation](https://github.com/artefactory/artefiles/pull/22) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (5 days ago)
-- [Optimize fish shell startup performance](https://github.com/chicham/dotfiles/pull/3) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (5 days ago)
-- [Configure name and email dynamically using GitHub CLI and update diff and merge tools](https://github.com/artefactory/artefiles/pull/21) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (6 days ago)
-- [chore: remove unused test-variables script](https://github.com/artefactory/artefiles/pull/20) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (6 days ago)
+- [feat: Enhance Git difftastic configuration with syntax highlighting](https://github.com/artefactory/artefiles/pull/30) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [Fix Git version detection in dot_gitconfig.tmpl](https://github.com/artefactory/artefiles/pull/29) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [Fix Git version detection in dot_gitconfig.tmpl](https://github.com/artefactory/artefiles/pull/28) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [Fix gitconfig template to handle empty name and email values](https://github.com/artefactory/artefiles/pull/27) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [Fix 1Password CLI installation with templating](https://github.com/artefactory/artefiles/pull/26) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [Add 1Password CLI with service account support](https://github.com/artefactory/artefiles/pull/25) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [Fix Neovim configuration and Git conflict style compatibility](https://github.com/artefactory/artefiles/pull/24) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 days ago)
+- [Fix: Make gitconfig email template more robust with hasKey check](https://github.com/chicham/dotfiles/pull/7) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (4 days ago)
+- [Update dotfiles configuration: Convert chezmoi config to template and remove unused files](https://github.com/chicham/dotfiles/pull/6) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (4 days ago)
+- [Improve diff and merge tools](https://github.com/chicham/dotfiles/pull/5) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (5 days ago)
 
 #### 📜 My recent blog posts
 
