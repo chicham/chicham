@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation (4 months ago)
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add GitHub Copilot CLI extension](https://github.com/artefactory/artefiles/pull/31) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
+- [Add GitHub Copilot CLI extension](https://github.com/artefactory/artefiles/pull/31) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 days ago)
 - [feat: Enhance Git difftastic configuration with syntax highlighting](https://github.com/artefactory/artefiles/pull/30) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [Fix Git version detection in dot_gitconfig.tmpl](https://github.com/artefactory/artefiles/pull/29) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [Fix Git version detection in dot_gitconfig.tmpl](https://github.com/artefactory/artefiles/pull/28) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
