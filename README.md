@@ -6,7 +6,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add GitHub Copilot CLI extension](https://github.com/artefactory/artefiles/pull/31) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (5 days ago)
+- [Add GitHub Copilot CLI extension](https://github.com/artefactory/artefiles/pull/31) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (6 days ago)
 - [feat: Enhance Git difftastic configuration with syntax highlighting](https://github.com/artefactory/artefiles/pull/30) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [Fix Git version detection in dot_gitconfig.tmpl](https://github.com/artefactory/artefiles/pull/29) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [Fix Git version detection in dot_gitconfig.tmpl](https://github.com/artefactory/artefiles/pull/28) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
@@ -14,8 +14,8 @@
 - [Fix 1Password CLI installation with templating](https://github.com/artefactory/artefiles/pull/26) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [Add 1Password CLI with service account support](https://github.com/artefactory/artefiles/pull/25) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [Fix Neovim configuration and Git conflict style compatibility](https://github.com/artefactory/artefiles/pull/24) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
-- [Fix: Make gitconfig email template more robust with hasKey check](https://github.com/chicham/dotfiles/pull/7) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (1 week ago)
-- [Update dotfiles configuration: Convert chezmoi config to template and remove unused files](https://github.com/chicham/dotfiles/pull/6) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (1 week ago)
+- [Fix: Make gitconfig email template more robust with hasKey check](https://github.com/chicham/dotfiles/pull/7) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (2 weeks ago)
+- [Update dotfiles configuration: Convert chezmoi config to template and remove unused files](https://github.com/chicham/dotfiles/pull/6) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
