@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation (5 months ago)
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation (6 months ago)
 
 #### 🔨 My recent Pull Requests
 
