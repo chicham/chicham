@@ -6,7 +6,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Upgrade shared WezTerm configuration with enhanced settings](https://github.com/artefactory/artefiles/pull/34) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (6 days ago)
+- [feat: Upgrade shared WezTerm configuration with enhanced settings](https://github.com/artefactory/artefiles/pull/34) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [docs: Add comprehensive changelog management workflow documentation](https://github.com/artefactory/artefiles/pull/33) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 month ago)
 - [fix: Only execute fish shell in interactive sessions](https://github.com/artefactory/artefiles/pull/32) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 month ago)
 - [Add GitHub Copilot CLI extension](https://github.com/artefactory/artefiles/pull/31) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 month ago)
