@@ -6,16 +6,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Upgrade shared WezTerm configuration with enhanced settings](https://github.com/artefactory/artefiles/pull/34) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 weeks ago)
+- [Fix critical runtime errors in dotfiles configuration](https://github.com/artefactory/artefiles/pull/36) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [feat: Update shared WezTerm config with personal config improvements](https://github.com/artefactory/artefiles/pull/35) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [feat: Upgrade shared WezTerm configuration with enhanced settings](https://github.com/artefactory/artefiles/pull/34) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 weeks ago)
 - [docs: Add comprehensive changelog management workflow documentation](https://github.com/artefactory/artefiles/pull/33) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 month ago)
 - [fix: Only execute fish shell in interactive sessions](https://github.com/artefactory/artefiles/pull/32) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 month ago)
 - [Add GitHub Copilot CLI extension](https://github.com/artefactory/artefiles/pull/31) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 month ago)
-- [feat: Enhance Git difftastic configuration with syntax highlighting](https://github.com/artefactory/artefiles/pull/30) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 month ago)
-- [Fix Git version detection in dot_gitconfig.tmpl](https://github.com/artefactory/artefiles/pull/29) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 month ago)
-- [Fix Git version detection in dot_gitconfig.tmpl](https://github.com/artefactory/artefiles/pull/28) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 month ago)
-- [Fix gitconfig template to handle empty name and email values](https://github.com/artefactory/artefiles/pull/27) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 month ago)
-- [Fix 1Password CLI installation with templating](https://github.com/artefactory/artefiles/pull/26) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 month ago)
-- [Add 1Password CLI with service account support](https://github.com/artefactory/artefiles/pull/25) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 month ago)
+- [feat: Enhance Git difftastic configuration with syntax highlighting](https://github.com/artefactory/artefiles/pull/30) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
+- [Fix Git version detection in dot_gitconfig.tmpl](https://github.com/artefactory/artefiles/pull/29) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
+- [Fix Git version detection in dot_gitconfig.tmpl](https://github.com/artefactory/artefiles/pull/28) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
+- [Fix gitconfig template to handle empty name and email values](https://github.com/artefactory/artefiles/pull/27) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
 
 #### 📜 My recent blog posts
 
