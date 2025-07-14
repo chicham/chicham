@@ -6,9 +6,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor: Improve SSH Detection and WezTerm Installation](https://github.com/artefactory/artefiles/pull/38) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [Fixes #&lt;issue-number&gt;: Enhance agentpr with multiline command extraction and AI model selection](https://github.com/chicham/dotfiles/pull/10) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (1 week ago)
-- [Fixes #issue-number: Enhance PR generation and handle multiline GitHub command extraction](https://github.com/chicham/dotfiles/pull/9) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (1 week ago)
+- [Refactor: Improve SSH Detection and WezTerm Installation](https://github.com/artefactory/artefiles/pull/38) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
+- [Fixes #&lt;issue-number&gt;: Enhance agentpr with multiline command extraction and AI model selection](https://github.com/chicham/dotfiles/pull/10) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (2 weeks ago)
+- [Fixes #issue-number: Enhance PR generation and handle multiline GitHub command extraction](https://github.com/chicham/dotfiles/pull/9) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (2 weeks ago)
 - [docs: enhance Claude instructions and command documentation](https://github.com/chicham/dotfiles/pull/8) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (2 weeks ago)
 - [feat: Implement various configuration and documentation updates](https://github.com/artefactory/artefiles/pull/37) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 weeks ago)
 - [Fix critical runtime errors in dotfiles configuration](https://github.com/artefactory/artefiles/pull/36) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 weeks ago)
