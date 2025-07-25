@@ -6,7 +6,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: Remove 1password-cli dependency and references](https://github.com/artefactory/artefiles/pull/39) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (6 days ago)
+- [refactor: Remove 1password-cli dependency and references](https://github.com/artefactory/artefiles/pull/39) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [Refactor: Improve SSH Detection and WezTerm Installation](https://github.com/artefactory/artefiles/pull/38) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [Fixes #&lt;issue-number&gt;: Enhance agentpr with multiline command extraction and AI model selection](https://github.com/chicham/dotfiles/pull/10) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (3 weeks ago)
 - [Fixes #issue-number: Enhance PR generation and handle multiline GitHub command extraction](https://github.com/chicham/dotfiles/pull/9) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (3 weeks ago)
