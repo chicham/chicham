@@ -6,9 +6,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs(readme): enhance documentation with comprehensive configuration updates](https://github.com/artefactory/artefiles/pull/41) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 days ago)
-- [feat: Add Linux external dependencies configuration](https://github.com/artefactory/artefiles/pull/40) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 days ago)
-- [refactor: Remove 1password-cli dependency and references](https://github.com/artefactory/artefiles/pull/39) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
+- [docs(readme): enhance documentation with comprehensive configuration updates](https://github.com/artefactory/artefiles/pull/41) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (4 days ago)
+- [feat: Add Linux external dependencies configuration](https://github.com/artefactory/artefiles/pull/40) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (4 days ago)
+- [refactor: Remove 1password-cli dependency and references](https://github.com/artefactory/artefiles/pull/39) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 weeks ago)
 - [Refactor: Improve SSH Detection and WezTerm Installation](https://github.com/artefactory/artefiles/pull/38) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 weeks ago)
 - [Fixes #&lt;issue-number&gt;: Enhance agentpr with multiline command extraction and AI model selection](https://github.com/chicham/dotfiles/pull/10) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (1 month ago)
 - [Fixes #issue-number: Enhance PR generation and handle multiline GitHub command extraction](https://github.com/chicham/dotfiles/pull/9) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (1 month ago)
