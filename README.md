@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs (8 months ago)
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs (9 months ago)
 
 #### 🔨 My recent Pull Requests
 
