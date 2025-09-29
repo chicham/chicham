@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs (9 months ago)
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs (10 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -10,8 +10,8 @@
 - [feat: Add Linux external dependencies configuration](https://github.com/artefactory/artefiles/pull/40) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
 - [refactor: Remove 1password-cli dependency and references](https://github.com/artefactory/artefiles/pull/39) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
 - [Refactor: Improve SSH Detection and WezTerm Installation](https://github.com/artefactory/artefiles/pull/38) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
-- [Fixes #&lt;issue-number&gt;: Enhance agentpr with multiline command extraction and AI model selection](https://github.com/chicham/dotfiles/pull/10) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (2 months ago)
-- [Fixes #issue-number: Enhance PR generation and handle multiline GitHub command extraction](https://github.com/chicham/dotfiles/pull/9) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (2 months ago)
+- [Fixes #&lt;issue-number&gt;: Enhance agentpr with multiline command extraction and AI model selection](https://github.com/chicham/dotfiles/pull/10) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (3 months ago)
+- [Fixes #issue-number: Enhance PR generation and handle multiline GitHub command extraction](https://github.com/chicham/dotfiles/pull/9) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (3 months ago)
 - [docs: enhance Claude instructions and command documentation](https://github.com/chicham/dotfiles/pull/8) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (3 months ago)
 - [feat: Implement various configuration and documentation updates](https://github.com/artefactory/artefiles/pull/37) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 months ago)
 - [Fix critical runtime errors in dotfiles configuration](https://github.com/artefactory/artefiles/pull/36) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (3 months ago)
