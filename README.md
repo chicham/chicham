@@ -14,8 +14,8 @@
 - [Fixes #issue-number: Enhance PR generation and handle multiline GitHub command extraction](https://github.com/chicham/dotfiles/pull/9) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (4 months ago)
 - [docs: enhance Claude instructions and command documentation](https://github.com/chicham/dotfiles/pull/8) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (4 months ago)
 - [feat: Implement various configuration and documentation updates](https://github.com/artefactory/artefiles/pull/37) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (4 months ago)
-- [Fix critical runtime errors in dotfiles configuration](https://github.com/artefactory/artefiles/pull/36) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (4 months ago)
-- [feat: Update shared WezTerm config with personal config improvements](https://github.com/artefactory/artefiles/pull/35) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (4 months ago)
+- [Fix critical runtime errors in dotfiles configuration](https://github.com/artefactory/artefiles/pull/36) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (5 months ago)
+- [feat: Update shared WezTerm config with personal config improvements](https://github.com/artefactory/artefiles/pull/35) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (5 months ago)
 
 #### 📜 My recent blog posts
 
