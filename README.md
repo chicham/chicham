@@ -5,7 +5,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: run all pre-commit hooks on PRs and pushes to main](https://github.com/artefactory/artefactual/pull/124) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (4 weeks ago)
+- [ci: run all pre-commit hooks on PRs and pushes to main](https://github.com/artefactory/artefactual/pull/124) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
 - [chore: improve code quality tooling and CI workflow](https://github.com/artefactory/artefactual/pull/87) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
 - [feat: add pre-commit GitHub Actions workflow](https://github.com/artefactory/artefactual/pull/74) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
 - [docs(readme): enhance documentation with comprehensive configuration updates](https://github.com/artefactory/artefiles/pull/41) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (5 months ago)
