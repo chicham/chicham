@@ -5,6 +5,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: add LICENSE metadata and classifiers](https://github.com/artefactory/artefactual/pull/209) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 day ago)
+- [chore: extend Python version support to 3.10-3.13](https://github.com/artefactory/artefactual/pull/208) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 day ago)
+- [chore: remove unused console script entrypoint](https://github.com/artefactory/artefactual/pull/207) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 day ago)
 - [ci: run all pre-commit hooks on PRs and pushes to main](https://github.com/artefactory/artefactual/pull/124) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
 - [chore: improve code quality tooling and CI workflow](https://github.com/artefactory/artefactual/pull/87) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
 - [feat: add pre-commit GitHub Actions workflow](https://github.com/artefactory/artefactual/pull/74) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
@@ -12,9 +15,6 @@
 - [feat: Add Linux external dependencies configuration](https://github.com/artefactory/artefiles/pull/40) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (5 months ago)
 - [refactor: Remove 1password-cli dependency and references](https://github.com/artefactory/artefiles/pull/39) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (6 months ago)
 - [Refactor: Improve SSH Detection and WezTerm Installation](https://github.com/artefactory/artefiles/pull/38) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (6 months ago)
-- [Fixes #&lt;issue-number&gt;: Enhance agentpr with multiline command extraction and AI model selection](https://github.com/chicham/dotfiles/pull/10) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (6 months ago)
-- [Fixes #issue-number: Enhance PR generation and handle multiline GitHub command extraction](https://github.com/chicham/dotfiles/pull/9) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (6 months ago)
-- [docs: enhance Claude instructions and command documentation](https://github.com/chicham/dotfiles/pull/8) on [chicham/dotfiles](https://github.com/chicham/dotfiles) (6 months ago)
 
 #### 📜 My recent blog posts
 
