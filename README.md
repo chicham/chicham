@@ -5,7 +5,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add automated release workflow with git-cliff and PyPI publishing](https://github.com/artefactory/artefactual/pull/211) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (4 days ago)
+- [feat: add automated release workflow with git-cliff and PyPI publishing](https://github.com/artefactory/artefactual/pull/211) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (5 days ago)
 - [chore: add LICENSE metadata and classifiers](https://github.com/artefactory/artefactual/pull/209) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 week ago)
 - [chore: extend Python version support to 3.10-3.13](https://github.com/artefactory/artefactual/pull/208) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 week ago)
 - [chore: remove unused console script entrypoint](https://github.com/artefactory/artefactual/pull/207) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 week ago)
