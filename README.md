@@ -5,16 +5,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add automated release workflow with git-cliff and PyPI publishing](https://github.com/artefactory/artefactual/pull/211) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (5 days ago)
+- [feat(pre-commit): add nbqa ruff hooks for notebooks](https://github.com/artefactory/artefactual/pull/216) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 day ago)
+- [feat(ci): add dedicated test CI workflow](https://github.com/artefactory/artefactual/pull/214) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 day ago)
+- [feat: add Sphinx documentation with GitHub Pages deployment](https://github.com/artefactory/artefactual/pull/213) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 day ago)
+- [feat: add automated release workflow with git-cliff and PyPI publishing](https://github.com/artefactory/artefactual/pull/211) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (6 days ago)
 - [chore: add LICENSE metadata and classifiers](https://github.com/artefactory/artefactual/pull/209) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 week ago)
 - [chore: extend Python version support to 3.10-3.13](https://github.com/artefactory/artefactual/pull/208) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 week ago)
 - [chore: remove unused console script entrypoint](https://github.com/artefactory/artefactual/pull/207) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 week ago)
 - [ci: run all pre-commit hooks on PRs and pushes to main](https://github.com/artefactory/artefactual/pull/124) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
 - [chore: improve code quality tooling and CI workflow](https://github.com/artefactory/artefactual/pull/87) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
 - [feat: add pre-commit GitHub Actions workflow](https://github.com/artefactory/artefactual/pull/74) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
-- [docs(readme): enhance documentation with comprehensive configuration updates](https://github.com/artefactory/artefiles/pull/41) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (6 months ago)
-- [feat: Add Linux external dependencies configuration](https://github.com/artefactory/artefiles/pull/40) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (6 months ago)
-- [refactor: Remove 1password-cli dependency and references](https://github.com/artefactory/artefiles/pull/39) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (6 months ago)
 
 #### 📜 My recent blog posts
 
