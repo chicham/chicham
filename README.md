@@ -12,7 +12,7 @@
 - [chore: add LICENSE metadata and classifiers](https://github.com/artefactory/artefactual/pull/209) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (3 weeks ago)
 - [chore: extend Python version support to 3.10-3.13](https://github.com/artefactory/artefactual/pull/208) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (3 weeks ago)
 - [chore: remove unused console script entrypoint](https://github.com/artefactory/artefactual/pull/207) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (3 weeks ago)
-- [ci: run all pre-commit hooks on PRs and pushes to main](https://github.com/artefactory/artefactual/pull/124) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
+- [ci: run all pre-commit hooks on PRs and pushes to main](https://github.com/artefactory/artefactual/pull/124) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 months ago)
 - [chore: improve code quality tooling and CI workflow](https://github.com/artefactory/artefactual/pull/87) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 months ago)
 - [feat: add pre-commit GitHub Actions workflow](https://github.com/artefactory/artefactual/pull/74) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 months ago)
 
