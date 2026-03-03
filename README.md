@@ -5,7 +5,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [test: add property-based tests for sequence probability pipeline](https://github.com/artefactory/artefactual/pull/224) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (3 days ago)
+- [test: add property-based tests for sequence probability pipeline](https://github.com/artefactory/artefactual/pull/224) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (4 days ago)
 - [feat(vscode): install VSCode and extensions automatically](https://github.com/artefactory/artefiles/pull/61) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [feat(fonts): install FiraCode Nerd Font via Homebrew cask](https://github.com/artefactory/artefiles/pull/60) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [docs: add terminal restart note to post-installation steps](https://github.com/artefactory/artefiles/pull/59) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
