@@ -5,7 +5,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [test: add property-based tests for sequence probability pipeline](https://github.com/artefactory/artefactual/pull/224) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (6 days ago)
+- [feat(modules): modular dotfiles with core &#43; opt-in modules](https://github.com/artefactory/artefiles/pull/62) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [test: add property-based tests for sequence probability pipeline](https://github.com/artefactory/artefactual/pull/224) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 week ago)
 - [feat(vscode): install VSCode and extensions automatically](https://github.com/artefactory/artefiles/pull/61) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [feat(fonts): install FiraCode Nerd Font via Homebrew cask](https://github.com/artefactory/artefiles/pull/60) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [docs: add terminal restart note to post-installation steps](https://github.com/artefactory/artefiles/pull/59) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
@@ -14,7 +15,6 @@
 - [feat(pre-commit): add nbqa ruff hooks for notebooks](https://github.com/artefactory/artefactual/pull/216) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
 - [feat(ci): add dedicated test CI workflow](https://github.com/artefactory/artefactual/pull/214) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
 - [feat: add Sphinx documentation with GitHub Pages deployment](https://github.com/artefactory/artefactual/pull/213) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
-- [feat: add automated release workflow with git-cliff and PyPI publishing](https://github.com/artefactory/artefactual/pull/211) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
 
 #### 📜 My recent blog posts
 
