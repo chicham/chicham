@@ -5,7 +5,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(modules): modular dotfiles with core &#43; opt-in modules](https://github.com/artefactory/artefiles/pull/62) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (6 days ago)
+- [feat(modules): modular dotfiles with core &#43; opt-in modules](https://github.com/artefactory/artefiles/pull/62) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [test: add property-based tests for sequence probability pipeline](https://github.com/artefactory/artefactual/pull/224) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 week ago)
 - [feat(vscode): install VSCode and extensions automatically](https://github.com/artefactory/artefiles/pull/61) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 weeks ago)
 - [feat(fonts): install FiraCode Nerd Font via Homebrew cask](https://github.com/artefactory/artefiles/pull/60) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 weeks ago)
