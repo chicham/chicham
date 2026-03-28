@@ -12,9 +12,9 @@
 - [docs: add terminal restart note to post-installation steps](https://github.com/artefactory/artefiles/pull/59) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 month ago)
 - [fix(git): set vscode as default mergetool, remove fugitive](https://github.com/artefactory/artefiles/pull/58) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 month ago)
 - [fix(git): change branch.autoSetupMerge from &#39;always&#39; to &#39;simple&#39;](https://github.com/artefactory/artefiles/pull/57) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 month ago)
-- [feat(pre-commit): add nbqa ruff hooks for notebooks](https://github.com/artefactory/artefactual/pull/216) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
-- [feat(ci): add dedicated test CI workflow](https://github.com/artefactory/artefactual/pull/214) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
-- [feat: add Sphinx documentation with GitHub Pages deployment](https://github.com/artefactory/artefactual/pull/213) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
+- [feat(pre-commit): add nbqa ruff hooks for notebooks](https://github.com/artefactory/artefactual/pull/216) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 months ago)
+- [feat(ci): add dedicated test CI workflow](https://github.com/artefactory/artefactual/pull/214) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 months ago)
+- [feat: add Sphinx documentation with GitHub Pages deployment](https://github.com/artefactory/artefactual/pull/213) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 months ago)
 
 #### 📜 My recent blog posts
 
