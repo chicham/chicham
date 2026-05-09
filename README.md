@@ -5,16 +5,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs(readme): rewrite Quick Start, fix mismatches, clarify chsh](https://github.com/artefactory/artefiles/pull/79) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [feat(linux): chezmoi script to install gh on Linux](https://github.com/artefactory/artefiles/pull/78) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [feat(packages): add gh to core brews](https://github.com/artefactory/artefiles/pull/77) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [ci(claude): allow gh pr create so workflow opens PRs](https://github.com/artefactory/artefiles/pull/76) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [Add Claude Code GitHub Workflow](https://github.com/artefactory/artefiles/pull/75) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [chore: clean stale refs, forbid Docker Desktop, allow mamba](https://github.com/artefactory/artefiles/pull/74) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [ci: hermetic bats test suite &#43; GitHub Actions](https://github.com/artefactory/artefiles/pull/73) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
 - [feat(modules): modular dotfiles with core &#43; opt-in modules](https://github.com/artefactory/artefiles/pull/62) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
 - [test: add property-based tests for sequence probability pipeline](https://github.com/artefactory/artefactual/pull/224) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 months ago)
 - [feat(vscode): install VSCode and extensions automatically](https://github.com/artefactory/artefiles/pull/61) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
-- [feat(fonts): install FiraCode Nerd Font via Homebrew cask](https://github.com/artefactory/artefiles/pull/60) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
-- [docs: add terminal restart note to post-installation steps](https://github.com/artefactory/artefiles/pull/59) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
-- [fix(git): set vscode as default mergetool, remove fugitive](https://github.com/artefactory/artefiles/pull/58) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
-- [fix(git): change branch.autoSetupMerge from &#39;always&#39; to &#39;simple&#39;](https://github.com/artefactory/artefiles/pull/57) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
-- [feat(pre-commit): add nbqa ruff hooks for notebooks](https://github.com/artefactory/artefactual/pull/216) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (3 months ago)
-- [feat(ci): add dedicated test CI workflow](https://github.com/artefactory/artefactual/pull/214) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (3 months ago)
-- [feat: add Sphinx documentation with GitHub Pages deployment](https://github.com/artefactory/artefactual/pull/213) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (3 months ago)
 
 #### 📜 My recent blog posts
 
