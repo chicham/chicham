@@ -5,16 +5,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs(readme): rewrite Quick Start, fix mismatches, clarify chsh](https://github.com/artefactory/artefiles/pull/79) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [feat(linux): chezmoi script to install gh on Linux](https://github.com/artefactory/artefiles/pull/78) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [feat(packages): add gh to core brews](https://github.com/artefactory/artefiles/pull/77) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [ci(claude): allow gh pr create so workflow opens PRs](https://github.com/artefactory/artefiles/pull/76) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [Add Claude Code GitHub Workflow](https://github.com/artefactory/artefiles/pull/75) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [chore: clean stale refs, forbid Docker Desktop, allow mamba](https://github.com/artefactory/artefiles/pull/74) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [ci: hermetic bats test suite &#43; GitHub Actions](https://github.com/artefactory/artefiles/pull/73) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
-- [feat(modules): modular dotfiles with core &#43; opt-in modules](https://github.com/artefactory/artefiles/pull/62) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
-- [test: add property-based tests for sequence probability pipeline](https://github.com/artefactory/artefactual/pull/224) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 months ago)
-- [feat(vscode): install VSCode and extensions automatically](https://github.com/artefactory/artefiles/pull/61) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
+- [fix(tests): rewrite readme path-existence as a chezmoi-managed check](https://github.com/artefactory/artefiles/pull/84) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [feat(modules)!: split cloud/macos_desktop, harden Linux installers](https://github.com/artefactory/artefiles/pull/83) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [refactor(vscode): move extension list from shell script into packages.yaml](https://github.com/artefactory/artefiles/pull/82) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [fix(install): install Homebrew in install.sh so chezmoi inherits brew on PATH](https://github.com/artefactory/artefiles/pull/81) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 day ago)
+- [docs(readme): rewrite Quick Start, fix mismatches, clarify chsh](https://github.com/artefactory/artefiles/pull/79) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
+- [feat(linux): chezmoi script to install gh on Linux](https://github.com/artefactory/artefiles/pull/78) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
+- [feat(packages): add gh to core brews](https://github.com/artefactory/artefiles/pull/77) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
+- [ci(claude): allow gh pr create so workflow opens PRs](https://github.com/artefactory/artefiles/pull/76) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
+- [Add Claude Code GitHub Workflow](https://github.com/artefactory/artefiles/pull/75) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
+- [chore: clean stale refs, forbid Docker Desktop, allow mamba](https://github.com/artefactory/artefiles/pull/74) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 days ago)
 
 #### 📜 My recent blog posts
 
