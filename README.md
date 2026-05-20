@@ -5,6 +5,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(calibration): defer optional vLLM/ray imports so tests collect without [calibration] extra](https://github.com/artefactory/artefactual/pull/273) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 day ago)
 - [fix(nvim): restore init.lua.tmpl — file has darwin-conditional template logic](https://github.com/artefactory/artefiles/pull/96) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [refactor: lean on chezmoi externals/attributes; drop redundant install scripts and template wrappers](https://github.com/artefactory/artefiles/pull/95) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [test(shellcheck): cover all rendered .chezmoiscripts under both OSes](https://github.com/artefactory/artefiles/pull/94) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
@@ -14,7 +15,6 @@
 - [test(packages): cover casks and per-module brews/casks](https://github.com/artefactory/artefiles/pull/90) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [fix(scripts): make python-tools install hash-gated](https://github.com/artefactory/artefiles/pull/89) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 - [fix(scripts/linux): gate git-extras and 1password installs by module](https://github.com/artefactory/artefiles/pull/88) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
-- [feat(vscode): add direnv extension](https://github.com/artefactory/artefiles/pull/87) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 week ago)
 
 #### 📜 My recent blog posts
 
