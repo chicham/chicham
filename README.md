@@ -5,7 +5,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(calibration): defer optional vLLM/ray imports so tests collect without [calibration] extra](https://github.com/artefactory/artefactual/pull/273) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (5 days ago)
+- [fix(calibration): defer optional vLLM/ray imports so tests collect without [calibration] extra](https://github.com/artefactory/artefactual/pull/273) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (6 days ago)
 - [fix(nvim): restore init.lua.tmpl — file has darwin-conditional template logic](https://github.com/artefactory/artefiles/pull/96) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 weeks ago)
 - [refactor: lean on chezmoi externals/attributes; drop redundant install scripts and template wrappers](https://github.com/artefactory/artefiles/pull/95) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 weeks ago)
 - [test(shellcheck): cover all rendered .chezmoiscripts under both OSes](https://github.com/artefactory/artefiles/pull/94) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 weeks ago)
