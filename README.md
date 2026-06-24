@@ -5,7 +5,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(retrieval): add ColBERT late-interaction engine (PyLate &#43; GTE-ModernColBERT)](https://github.com/artefactory/LEDGER/pull/5) on [artefactory/LEDGER](https://github.com/artefactory/LEDGER) (2 weeks ago)
+- [feat(retrieval): add ColBERT late-interaction engine (PyLate &#43; GTE-ModernColBERT)](https://github.com/artefactory/LEDGER/pull/5) on [artefactory/LEDGER](https://github.com/artefactory/LEDGER) (3 weeks ago)
 - [feat(retrieval): page-level BM25 &#43; SPLADE retrieval over OCR&#39;d reports](https://github.com/artefactory/LEDGER/pull/2) on [artefactory/LEDGER](https://github.com/artefactory/LEDGER) (4 weeks ago)
 - [fix(calibration): defer optional vLLM/ray imports so tests collect without [calibration] extra](https://github.com/artefactory/artefactual/pull/273) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
 - [fix(nvim): restore init.lua.tmpl — file has darwin-conditional template logic](https://github.com/artefactory/artefiles/pull/96) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (1 month ago)
