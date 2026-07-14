@@ -5,6 +5,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: stop CI from installing the eval/inference stack for test runs](https://github.com/artefactory/artefactual/pull/293) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 day ago)
 - [feat(retrieval): add ColBERT late-interaction engine (PyLate &#43; GTE-ModernColBERT)](https://github.com/artefactory/LEDGER/pull/5) on [artefactory/LEDGER](https://github.com/artefactory/LEDGER) (1 month ago)
 - [feat(retrieval): page-level BM25 &#43; SPLADE retrieval over OCR&#39;d reports](https://github.com/artefactory/LEDGER/pull/2) on [artefactory/LEDGER](https://github.com/artefactory/LEDGER) (1 month ago)
 - [fix(calibration): defer optional vLLM/ray imports so tests collect without [calibration] extra](https://github.com/artefactory/artefactual/pull/273) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 month ago)
@@ -14,7 +15,6 @@
 - [refactor(chezmoiignore): remove redundant aerospace and linux-script gates](https://github.com/artefactory/artefiles/pull/93) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
 - [fix: drop uv duplicate, dead libc, tautology; add OS/init/externals/module-gating tests](https://github.com/artefactory/artefiles/pull/92) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
 - [fix(scripts/linux): restore line-1 shebang; add render-then-shellcheck and fish syntax tests](https://github.com/artefactory/artefiles/pull/91) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
-- [test(packages): cover casks and per-module brews/casks](https://github.com/artefactory/artefiles/pull/90) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
 
 #### 📜 My recent blog posts
 
