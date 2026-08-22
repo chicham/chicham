@@ -2,19 +2,22 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [artefactory/artefactual](https://github.com/artefactory/artefactual) -  (2 weeks ago)
+- [artefactory/LEDGER](https://github.com/artefactory/LEDGER) - LEDGER: A Long-Context Benchmark of Corporate Annual Reports for Grounded Financial Retrieval and Extraction (2 months ago)
+- [artefactory/artefiles](https://github.com/artefactory/artefiles) -  (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix: stop CI from installing the eval/inference stack for test runs](https://github.com/artefactory/artefactual/pull/293) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (1 week ago)
-- [feat(retrieval): add ColBERT late-interaction engine (PyLate &#43; GTE-ModernColBERT)](https://github.com/artefactory/LEDGER/pull/5) on [artefactory/LEDGER](https://github.com/artefactory/LEDGER) (1 month ago)
-- [feat(retrieval): page-level BM25 &#43; SPLADE retrieval over OCR&#39;d reports](https://github.com/artefactory/LEDGER/pull/2) on [artefactory/LEDGER](https://github.com/artefactory/LEDGER) (1 month ago)
-- [fix(calibration): defer optional vLLM/ray imports so tests collect without [calibration] extra](https://github.com/artefactory/artefactual/pull/273) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 months ago)
-- [fix(nvim): restore init.lua.tmpl — file has darwin-conditional template logic](https://github.com/artefactory/artefiles/pull/96) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
-- [refactor: lean on chezmoi externals/attributes; drop redundant install scripts and template wrappers](https://github.com/artefactory/artefiles/pull/95) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
-- [test(shellcheck): cover all rendered .chezmoiscripts under both OSes](https://github.com/artefactory/artefiles/pull/94) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
-- [refactor(chezmoiignore): remove redundant aerospace and linux-script gates](https://github.com/artefactory/artefiles/pull/93) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
-- [fix: drop uv duplicate, dead libc, tautology; add OS/init/externals/module-gating tests](https://github.com/artefactory/artefiles/pull/92) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
-- [fix(scripts/linux): restore line-1 shebang; add render-then-shellcheck and fish syntax tests](https://github.com/artefactory/artefiles/pull/91) on [artefactory/artefiles](https://github.com/artefactory/artefiles) (2 months ago)
+- [fix(ci): repair the release pipeline and gate it properly](https://github.com/artefactory/artefactual/pull/329) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 weeks ago)
+- [ci: release on a labelled merge, behind a reviewed environment](https://github.com/artefactory/artefactual/pull/327) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 weeks ago)
+- [fix(build): pin the scikit-learn floor and make the TestPyPI job test the wheel](https://github.com/artefactory/artefactual/pull/326) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 weeks ago)
+- [fix(ci): satisfy both ty versions and install pandoc for the docs build](https://github.com/artefactory/artefactual/pull/325) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 weeks ago)
+- [feat(io): load detectors as skops estimators from the Hub](https://github.com/artefactory/artefactual/pull/324) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 weeks ago)
+- [docs(ecir): document how to run vllm, including the CUDA-version pin](https://github.com/artefactory/artefactual/pull/323) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 weeks ago)
+- [fix: correctness fixes across scoring, parsing, io and the langfuse adapter](https://github.com/artefactory/artefactual/pull/322) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 weeks ago)
+- [docs: rewrite the documentation, generate llms.txt, and fail the build on warnings](https://github.com/artefactory/artefactual/pull/321) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 weeks ago)
+- [feat(scripts): reproduce the ECIR2026 EPR/WEPR pipeline on vllm run-batch](https://github.com/artefactory/artefactual/pull/320) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 weeks ago)
+- [docs: build the example notebooks into the documentation site](https://github.com/artefactory/artefactual/pull/319) on [artefactory/artefactual](https://github.com/artefactory/artefactual) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
